@@ -3,7 +3,12 @@
 ## Overview of Project
 We ran 2 main analysis to assess the probability of launching a successful campaign for a play
 On our first analysis we considered the outcomes based on the launching month of the campaign considering years from 2009 through 2017 and on raw data we can observe that theater campaigns that are launched in May has a bigger successful rate than other months
+
+![Alt Text](https://github.com/CarlosRello/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 On our second Analysis we considered the outcome probability of success of a campaign based on how much money is being asked, we observe that when a smaller amount than 5000 is asked the probability of getting funded remains above 70%, and this success rate drops dramatically above that threshold up to 30,000 that remains fairly constant with a near 50% success rate.
+
+![Alt Text](https://github.com/CarlosRello/Kickstarter-Analysis/blob/main/Resources/Outcomes%20based%20Goals.png)
 
 ## We consider the following questions
 ### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
