@@ -13,8 +13,13 @@ On our second Analysis we considered the outcome probability of success of a cam
 ## We consider the following questions
 ### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 As stated May seems to be a good month to launch a theater campaign who need some funding and December seems to be the worst month to do so, that could have a relationship between that theater openings are always bigger and more successful in the December, so launching a campaign on those months might have a better an opening than it would if the opening is in the middle of the year, people go to the theater more on the last months of the year on that time having a bigger probability of a successful opening.
+
 ### What can you conclude about the Outcomes based on Goals?
 We observe from the Analysis of the Outcomes based on Goals that when a smaller amount of money is asked (up to 5,000) for the project the probability of getting funded is bigger, probably because the goal is reached faster and not so many pledges are required to achieve the goal, although, we also observe that with bigger goal amounts up to 45,000 the success percentage remains fairly stable between 40 and 50%, and drops dramatically over that amount, which could be also because more pledges are required and the goal is not reached fast enough.
 ### What are some limitations of this dataset?
 
+This Dataset has enough information to be aware of which elements are required when considering starting a kickstarting campaign, although it does miss a more in depht information because it actually considers that the information available for the pledgers is the same in every project, that said it would be interesting to consider the elements that every successful campaign shares when integrates the presentation of the project to be presented to the possible pledgers.
+
 ### What are some other possible tables and/or graphs that we could create?
+
+I would also consider a table that takes on account the time the project is open for pledges, because some campaigns might have ended being successful if it had more time or if probably having a big amount of time to pledge made the pledgers fearful of the possible success of the project.
